@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swadheen Mishra</h1>
 <h3 align="center">I'm Swadheen Mishra, a passionate developer with a diverse background in programming. I have worked on various projects ranging from games and websites to computer vision, Arduino, and Raspberry Pi.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swadheenmishra&label=Profile%20views&color=0e75b6&style=flat" alt="swadheenmishra" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadheenmishra" alt="swadheenmishra" /></a> </p>
 
-- 📫 How to reach me: **mishradev666@gmail.com**
+- 📫 How to reach me: mishradev666@gmail.com **mishradev666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
