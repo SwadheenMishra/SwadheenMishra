@@ -2,6 +2,8 @@
 
 ## Hi there! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 I'm Swadheen Mishra, a passionate developer with a diverse background in programming. I have worked on various projects ranging from games and websites to computer vision, Arduino, and Raspberry Pi.
 
 - 📫 How to reach me: mishradev666@gmail.com
