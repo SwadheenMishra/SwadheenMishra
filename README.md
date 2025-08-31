@@ -4,8 +4,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SwadheenMishra&color=blue)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadheenmishra" alt="swadheenmishra" /></a> </p>
 
-- 📫 How to reach me: **mishradev666@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/swadheenmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swadheenm" height="30" width="40" /></a>
