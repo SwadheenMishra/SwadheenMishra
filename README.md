@@ -19,12 +19,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwadheenMishra&show_icons=true&locale=en" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwadheenMishra&layout=compact&locale=en" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SwadheenMishra" alt="GitHub streak" />
 </p>
 
 <p align="center">
